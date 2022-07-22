@@ -1,2 +1,2 @@
-# rishkhare.github.io
+# rishabhkhare.github.io
 Personal Website
